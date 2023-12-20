@@ -61,5 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the React.js community for providing a powerful and flexible library.
 
 ---
-
-Feel free to customize this README as needed and add any additional information you find relevant to your project. If there are specific details or sections you'd like to add, please let me know!
